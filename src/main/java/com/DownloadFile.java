@@ -1,4 +1,4 @@
-package com.task6;
+package com;
 
 import java.io.File;
 import java.io.FileOutputStream;
