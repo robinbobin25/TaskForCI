@@ -1,3 +1,5 @@
+package com.task6;
+
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
